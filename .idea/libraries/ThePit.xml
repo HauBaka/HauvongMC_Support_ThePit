@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ThePit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Work/Code/API/ThePit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Work/Code/API/Vault.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Work/Code/API/spigot-1.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Work/Code/API/spigot-1.8.8.jar!/" />
+    </SOURCES>
+  </library>
+</component>
