@@ -1,8 +1,0 @@
-name: HauvongMC_Support_ThePit
-main: com.HauvongMC.Main
-version: 12.121
-author: HauvongMC
-
-commands:
-  reboot:
-  changeserver:  
